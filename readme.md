@@ -8,6 +8,6 @@ The corpus is released in excel and csv format.
 
 
 ### How To Get The Full Version
-If you need the full version, we can arrange a way to send the dataset to you. Please email at <contact@socian.xyz>
+If you need the full version, we can arrange a way to send the dataset to you. Please email at <contact@socian.ai>
 ### License
 The corpus is licensed under GNU GPLv3, making it very easy to anyone to use the data for any purpose.
